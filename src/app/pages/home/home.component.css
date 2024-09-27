@@ -1,0 +1,14 @@
+:host { 
+  display: contents; 
+}
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-lottie-node {
+  width: 300px;
+  height: 300px;
+}
